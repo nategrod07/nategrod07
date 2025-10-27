@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**nategrod07/nategrod07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nathan Rodriguez (He\Him)
 
-Here are some ideas to get you started:
+**Human Centered Data Science Student @ UT Austin**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- C
+- C++
+- Git
+- Linux
+- Software Engineering
+
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/nathan-rodriguez-57692a220)
+[Resume](https://docs.google.com/document/d/1MtAkOn1wjAbi7KyaYan3V5M3xWkFYqJ7tbyfwWl0CXw/edit?usp=sharing)
+## 🎉 Fun Facts
+- 🏀 Basketball player
+- 🐱 Cat lover
+
+---
+
+Thanks for visiting my profile!

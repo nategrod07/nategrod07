@@ -3,14 +3,14 @@
 
 I work at the intersection of security and data applying data-driven methods to detect threats, manage risk, and build tools that make systems safer. Long-term, I'm working toward a career in security leadership.
 
-About Me
+# About Me
 🎓 Informatics @ UT Austin — Human-Centered Data Science concentration, Risk Management minor
 🛡️ Cybersecurity Intern @ Henry Schein
 🔬 Cybersecurity Fellow @ Strauss Cybersecurity Clinic, UT Austin
 📖 Currently preparing for the CompTIA Security+ (SY0-701) certification
 
 
-Languages & Tools: 
+# Languages & Tools: 
 - Python
 - C
 - C++
@@ -18,11 +18,13 @@ Languages & Tools:
 - Linux
 - Jupyter
 
-Featured Projects
+# Featured Projects
 Cost-Churn-Analysis — Data science project modeling customer churn (built for I 310D).
+
 Job-Tracking-Aid — Chrome extension that auto-logs job applications across LinkedIn, Handshake, Indeed, and more.
-Connect
+
+# Connect
 LinkedIn: nathan-rodriguez-57692a220
-Resume:https://docs.google.com/document/d/1NTX5f7BoVklbloz6A2pYCqdSPjOYDo463hrLChLZXJU/edit?usp=sharing
+**Resume:** [View](https://docs.google.com/document/d/1NTX5f7BoVklbloz6A2pYCqdSPjOYDo463hrLChLZXJU/edit?usp=sharing) 
 
 

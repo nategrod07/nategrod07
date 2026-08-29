@@ -14,15 +14,19 @@ I work at the intersection of cybersecurity and data applying data-driven method
 
 
 # Languages & Tools: 
-- Python
-- C
-- C++
-- Git
-- Linux
-- Jupyter
+**Cybersecurity & Frameworks:** NIST CSF & RMF, ISO 27001, CMMC, FAIR, Risk Modeling, Compliance Auditing, Control Mapping, HIPAA, Security Policy Development
+
+**AI & Automation:** Prompt Engineering, LLM API Integration, OpenAI Codex, Claude Code
+
+**Programming & Data:** Python, Bash/Shell, SQL, NoSQL, C++, C, Pandas, NumPy, scikit-learn, ETL, Database Management
+
+**Visualization & Platforms:** Power BI, Excel, Plotly, ServiceNow, REST APIs, GitHub
+
 
 # Featured Projects
-Cost-Churn-Analysis — Data science project modeling customer churn (built for I 310D).
+NIST 800-53 Continuous Control Monitor | Independent Security Automation Project - Python tool that accesses a livehost against 16 NIST SP 800-53 controls across 5 control families, collecting real evidence (FileVault, firewall, audit config, and account policy).
+
+Cost-Churn-Analysis — end-to-end churn prediction pipeline on 3M+ Instacart grocery orders, engineering behavioral features (reorder gap, basket size, order frequency) to define and model at-risk customers.
 
 Job-Tracking-Aid — Chrome extension that auto-logs job applications across LinkedIn, Handshake, Indeed, and more.
 
@@ -30,6 +34,6 @@ Job-Tracking-Aid — Chrome extension that auto-logs job applications across Lin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-rodriguez-57692a220)
 
 
-**Resume:** [View](https://docs.google.com/document/d/1NTX5f7BoVklbloz6A2pYCqdSPjOYDo463hrLChLZXJU/edit?usp=sharing) 
+**Resume:** [View](https://docs.google.com/document/d/1abm-saWXC1u79sKFQmMdpJKvTpdsSs7HFWDBdgS8z2U/edit?tab=t.0) 
 
 

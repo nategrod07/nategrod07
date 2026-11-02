@@ -1,5 +1,5 @@
 ### Nathan Rodriguez (He/Him)
-# Informatics + Risk Managment @ UT Austin
+# Informatics  @ UT Austin
 
 I work at the intersection of cybersecurity and data applying data-driven methods to detect threats, manage risk, and build tools that make systems safer. Long-term, I'm working toward a career in security leadership.
 

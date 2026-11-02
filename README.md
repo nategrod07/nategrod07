@@ -10,7 +10,7 @@ I work at the intersection of cybersecurity and data applying data-driven method
 
 🔬 Cybersecurity Fellow @ Strauss Cybersecurity Clinic, UT Austin
 
-📖 Currently preparing for the CompTIA Security+ (SY0-701) certification
+📖 Currently preparing for the CISA
 
 
 # Languages & Tools: 
